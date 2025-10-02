@@ -6,3 +6,11 @@ C:\Users\w0526843\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInpu
 C:\Users\w0526843\Animation\Animation\obj\Debug\Animation.exe
 C:\Users\w0526843\Animation\Animation\obj\Debug\Animation.pdb
 C:\Users\w0526843\Animation\Animation\obj\Debug\Animation.exe.config
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\bin\Debug\Animation.exe.config
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\bin\Debug\Animation.exe
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\bin\Debug\Animation.pdb
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\obj\Debug\Animation.csproj.AssemblyReference.cache
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\obj\Debug\Animation.exe.config
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\obj\Debug\Animation.exe
+C:\Users\mgc72\Documents\GitHub\Animation\Animation\obj\Debug\Animation.pdb

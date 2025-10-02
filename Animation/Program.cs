@@ -12,6 +12,10 @@ namespace Animation
         static (int, int) tuple = (5, 10);
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.DarkGray;
+            Console.WriteLine("                ");
+            Console.WriteLine("              ");
+            Console.WriteLine("            ");
             while (true)
             {
 
@@ -26,7 +30,7 @@ namespace Animation
 
                 tuple.Item1 = randomNumber;
 
-                for (int i = 0; i < 10; i++)
+                for (int i = 3; i < 15; i++)
                 {
 
                     Console.BackgroundColor = ConsoleColor.DarkBlue;
